@@ -1,5 +1,5 @@
-# Hemming-code
-Hemming code
+# Hamming-code
+Hamming code
 This is hemming code with interface written in QTdesigner
 
 --
